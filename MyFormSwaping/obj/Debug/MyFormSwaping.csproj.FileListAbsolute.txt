@@ -1,0 +1,13 @@
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\bin\Debug\MyFormSwaping.exe.config
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\bin\Debug\MyFormSwaping.exe
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\bin\Debug\MyFormSwaping.pdb
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\obj\Debug\MyFormSwaping.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\obj\Debug\MyFormSwaping.UI.resources
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\obj\Debug\MyFormSwaping.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\obj\Debug\MyFormSwaping.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\obj\Debug\MyFormSwaping.exe
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\obj\Debug\MyFormSwaping.pdb
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\bin\Debug\BO.dll
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\bin\Debug\BO.pdb
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\bin\Debug\DAL.dll
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\MyFormSwaping\bin\Debug\DAL.pdb

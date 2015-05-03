@@ -1,0 +1,7 @@
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\BO\bin\Debug\BO.dll
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\BO\bin\Debug\BO.pdb
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\BO\obj\Debug\BO.dll
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\BO\obj\Debug\BO.pdb
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\BO\bin\Debug\DAL.dll
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\BO\bin\Debug\DAL.pdb
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache

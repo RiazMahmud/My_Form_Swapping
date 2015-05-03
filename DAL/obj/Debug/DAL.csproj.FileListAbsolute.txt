@@ -1,0 +1,4 @@
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\DAL\bin\Debug\DAL.dll
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\DAL\bin\Debug\DAL.pdb
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\DAL\obj\Debug\DAL.dll
+\\psf\home\documents\visual studio 2013\Projects\MyFormSwaping\DAL\obj\Debug\DAL.pdb
